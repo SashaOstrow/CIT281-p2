@@ -1,0 +1,3 @@
+120aea4e87b5993cccb3e141f1fdeabb86020eeb Added getSortedString()
+986986299d4340a03829525c139ebdd8b0ab971f Added getRandomLetter()
+8c5a0c9527d299d8bdae2b4ebfed2b97217c2481 First commit
