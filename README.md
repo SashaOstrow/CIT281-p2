@@ -1,3 +1,4 @@
+# Project 2
 After completing this project, you will:
 
     Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control
